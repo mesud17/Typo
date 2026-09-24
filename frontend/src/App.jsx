@@ -1,9 +1,11 @@
-import Sidebar from "./components/Sidebar/Sidebar";
+
+import ChatPage from "./pages/ChatPage";
 function App() {
   return (
-    <div>
-      <Sidebar/>
-    </div>
+    <>
+      <ChatPage/>
+
+    </>
   );
 }
 

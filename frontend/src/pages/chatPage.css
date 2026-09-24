@@ -1,0 +1,18 @@
+.chat-page {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  background-color: #0d0d0d;
+}
+
+
+/* Main area  */
+
+.chat-main {
+  flex: 1;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  background-color: #0d0d0d;
+}
